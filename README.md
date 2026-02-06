@@ -3,6 +3,13 @@
 NAN Protocol is a gamified mining experiment built on the Solana Blockchain.
 It rewards users for daily engagement with a deflationary mechanism and luck-based incentives.
 
+## 👁️ The Vision
+
+In a crypto world obsessed with speed and quick flips, NAN Protocol is an experiment in **patience and consistency**.
+We believe that true value is built over time, not overnight. This protocol is designed to reward users who show up every day, enforcing a slow, orderly distribution of tokens rather than a chaotic rush.
+
+**"No rush. Just order."**
+
 ## 🌟 Key Features
 
 * **Daily Mining:** Users can mine NAN tokens once every 24 hours.
