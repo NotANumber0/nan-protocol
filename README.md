@@ -31,7 +31,7 @@ We believe that true value is built over time, not overnight. This protocol is d
 
 - [x] **Phase 1:** Core Smart Contract Development (Rust)
 - [x] **Phase 2:** Internal Simulation & Mechanics Testing
-- [ ] **Phase 3:** Devnet Deployment & Public Beta
+- [x] **Phase 3:** Devnet Deployment & Public Beta
 - [ ] **Phase 4:** Frontend UI Launch
 - [ ] **Phase 5:** Mainnet Launch
 
